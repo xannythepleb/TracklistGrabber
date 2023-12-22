@@ -1,6 +1,6 @@
 # TracklistGrabber
 
-This Python script uses the MusicBrainz API to fetch the track list of a specific album given the artist's name and the album title. It's a simple yet effective tool for music enthusiasts and developers interested in integrating music data into their projects.
+This creatively named Python script uses the MusicBrainz API to fetch a numbered track list of a specific album given the artist's name and the album title. It's a simple yet effective tool for music enthusiasts and developers interested in integrating music data into their projects.
 
 ## Prerequisites
 
